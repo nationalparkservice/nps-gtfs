@@ -1,2 +1,2 @@
 # nps-gtfs
-A repository of GTFS for National Park Service transportation systems.
+A repository of GTFS for National Park Service transit systems.
