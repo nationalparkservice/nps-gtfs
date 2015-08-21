@@ -6,3 +6,5 @@ Feeds are organized according to the system of <code>/[park code]/[system name]/
 ## Index
 * Rocky Mountain National Park <code>romo</code>
  * Shuttle Bus Routes <code>shuttles</code>
+* Cuyahoga Valley National Park <code>cuva</code>
+ * Cuyahoga Valley Scenic Railroad <code>scenic-rail</code>
