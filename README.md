@@ -2,7 +2,7 @@
 
 A repository of General Transit Feeds Specification (GTFS) for National Park Service transit systems.
 
-Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs.zip`.
+Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs.zip`. Direct download links are: `http://nationalparkservice.github.io/nps-gtfs/[alpha_code]/[system_name]/gtfs.zip`
 
 ## Index
 
