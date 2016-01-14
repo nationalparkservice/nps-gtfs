@@ -6,11 +6,11 @@ Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs
 
 ## Index
 
-System Name | Park Name | Feed Valid Thru | Dependencies
+Park Name | System Name | Feed Valid Thru | Dependencies
 ----------- | --------- | --------------- | -----
-Boston Harbor Islands Ferries <code>ferries</code> | Boston Harbor Islands National Park <code>boha</code> | October 10, 2016 | {Massachusetts Bay Transportation Authority's GTFS feed](http://www.mbta.com/rider_tools/developers/default.asp?id=21895) for shared routes (very important).
-Cuyahoga Valley Scenic Railroad <code>scenic-rail</code> | Cuyahoga Valley National Park <code>cuva</code> | August 30, 2015 | N/A
-Rocky Mountain NP Shuttles <code>shuttles</code> | Rocky Mountain National Park <code>romo</code> | October 12, 2015 | N/A
+Boston Harbor Islands National Park <code>boha</code> | Boston Harbor Islands Ferries <code>ferries</code> |  October 10, 2016 | {Massachusetts Bay Transportation Authority's GTFS feed](http://www.mbta.com/rider_tools/developers/default.asp?id=21895) for shared routes (very important).
+Cuyahoga Valley National Park <code>cuva</code> | Cuyahoga Valley Scenic Railroad <code>scenic-rail</code> | August 30, 2015 | N/A
+Rocky Mountain National Park <code>romo</code> | Rocky Mountain NP Shuttles <code>shuttles</code> | October 12, 2015 | N/A
 
 
 ## Public domain
