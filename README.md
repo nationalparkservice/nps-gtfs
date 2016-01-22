@@ -8,9 +8,9 @@ Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs
 
 Park Name | System Name | Feed Valid Thru | Dependencies
 ----------- | --------- | --------------- | -----
-[Boston Harbor Islands National Park] (http://www.nps.gov/boha "Boston Harbor Islands National Park") <code>boha</code> | Boston Harbor Islands Ferries <code>ferries</code> |  October 10, 2016 | [Massachusetts Bay Transportation Authority's GTFS feed](http://www.mbta.com/rider_tools/developers/default.asp?id=21895 "Massachusetts Bay Transportation Authority's GTFS feed") for shared routes (very important).
-[Cuyahoga Valley National Park] (http://www.nps.gov/cuva "Cuyahoga Valley National Park") <code>cuva</code> | Cuyahoga Valley Scenic Railroad <code>scenic-rail</code> | August 30, 2015 | N/A
-[Rocky Mountain National Park] (http://www.nps.gov/romo "Rocky Mountain National Park") <code>romo</code> | Rocky Mountain NP Shuttles <code>shuttles</code> | October 12, 2015 | N/A
+[Boston Harbor Islands National Park] (http://www.nps.gov/boha "Boston Harbor Islands National Park") <code>boha</code> | [Boston Harbor Islands Ferries] (http://www.bostonharborislands.org/#!ferry-schedule-summer/ca1j "Boston Harbor Islands Ferries") <code>ferries</code> |  October 10, 2016 | [Massachusetts Bay Transportation Authority's GTFS feed](http://www.mbta.com/rider_tools/developers/default.asp?id=21895 "Massachusetts Bay Transportation Authority's GTFS feed") for shared routes (very important).
+[Cuyahoga Valley National Park] (http://www.nps.gov/cuva "Cuyahoga Valley National Park") <code>cuva</code> | [Cuyahoga Valley Scenic Railroad] (http://www.cvsr.com/national-park-scenic "Cuyahoga Valley Scenic Railroad") <code>scenic-rail</code> | February 27, 2016 | N/A
+[Rocky Mountain National Park] (http://www.nps.gov/romo "Rocky Mountain National Park") <code>romo</code> | [Rocky Mountain National Park Shuttles] (http://www.nps.gov/romo/planyourvisit/shuttle_bus_route.htm "Rocky Mountain National Park Shuttles") <code>shuttles</code> | October 12, 2015 | N/A
 
 
 ## Public domain
