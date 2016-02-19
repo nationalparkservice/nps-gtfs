@@ -2,22 +2,22 @@
 
 A repository of General Transit Feeds Specification (GTFS) for National Park Service transit systems.
 
-Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs.zip`. Direct download links are: `http://nationalparkservice.github.io/nps-gtfs/[alpha_code]/[system_name]/gtfs.zip`
+Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs.zip`. Direct download links are: `http://nationalparkservice.github.io/nps-gtfs/[alpha_code]/[system_name]/gtfs.zip`. Feeds maintained and hosted by partners have a different organization structure. Please see the tables below for more details.
 
 ## Index
 
-###Directly-Maintained Feeds
+####Maintained by NPS and Hosted on GitHub
 Park Name | System Name | Feed Valid Thru | Dependencies
 --------- | ----------- | --------------- | -----
 [Boston Harbor Islands National Park] (http://www.nps.gov/boha "Boston Harbor Islands National Park") <code>boha</code> | [Boston Harbor Islands Ferries] (http://www.bostonharborislands.org/#!ferry-schedule-summer/ca1j "Boston Harbor Islands Ferries") <code>ferries</code> |  May 5, 2017 | [Massachusetts Bay Transportation Authority's GTFS feed](http://www.mbta.com/rider_tools/developers/default.asp?id=21895 "Massachusetts Bay Transportation Authority's GTFS feed") for shared routes (very important).
 [Cuyahoga Valley National Park] (http://www.nps.gov/cuva "Cuyahoga Valley National Park") <code>cuva</code> | [Cuyahoga Valley Scenic Railroad] (http://www.cvsr.com/national-park-scenic "Cuyahoga Valley Scenic Railroad") <code>scenic-rail</code> | October 2, 2016 | N/A
 [Rocky Mountain National Park] (http://www.nps.gov/romo "Rocky Mountain National Park") <code>romo</code> | [Rocky Mountain National Park Shuttles] (http://www.nps.gov/romo/planyourvisit/shuttle_bus_route.htm "Rocky Mountain National Park Shuttles") <code>shuttles</code> | May 26, 2017 | N/A
 
-###Third-Party Feeds
-Park Name | System Name | Maintained By | Feed Link
---------- | ----------- | ------------- | -----
-[Acadia National Park] (http://www.nps.gov/acad "Acadia National Park") | [Acadia Island Explorer] (http://www.exploreacadia.com/ "Acadia Island Explorer") | Downeast Transportation and Avail Technologies | Pending
-[Yosemite National Park] (http://www.nps.gov/yose "Yosemite National Park") | [YARTS] (http://www.yarts.com "YARTS") | YARTS and Trillium Transit | [Link] (http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip "Link to GTFS")
+####Maintained and Hosted by Partners
+Park Name | System Name | Maintained By | Feed Link | License
+--------- | ----------- | ------------- | --------- | -----
+[Acadia National Park] (http://www.nps.gov/acad "Acadia National Park") | [Acadia Island Explorer] (http://www.exploreacadia.com/ "Acadia Island Explorer") | Downeast Transportation and Avail Technologies | Pending | [See Website] (http://yarts.com/developers-gtfs-data/ "YARTS GTFS Licensing Information")
+[Yosemite National Park] (http://www.nps.gov/yose "Yosemite National Park") | [Yosemite Area Regional Transportation System] (http://www.yarts.com "Yosemite Area Regional Transportation System") | YARTS and Trillium Transit | [Link] (http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip "Link to GTFS") | Public Domain; See Below
 
 
 ## Public domain
