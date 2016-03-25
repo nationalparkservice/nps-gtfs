@@ -4,6 +4,7 @@ Some service is provided by the Massachusetts Bay Transportation Authority.
 That data is included in MBTA's GTFS feed. In order to avoid duplication, it is NOT included in this feed.
 
 It is very important to use both MBTA's feed and the NPS feed in order to represent the full service to Boston Harbor Islands.
+The MBTA GTFS feed is available here: http://www.mbta.com/rider_tools/developers/default.asp?id=21895
 
 In MBTA's feed version ["Spring 2016 version 1D, 3/9/16"], any trips serving the following stop_ids is Boston Harbor Islands related:
 Boat-Grape
