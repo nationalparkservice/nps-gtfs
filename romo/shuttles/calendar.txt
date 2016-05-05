@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+NPS_ROMO_SU16,1,1,1,1,1,1,1,20160528,20161010
+NPS_ROMO_SU16-HE,1,1,1,1,1,1,1,20160625,20160911
+NPS_ROMO_FA16-HE,0,0,0,0,0,1,1,20160912,20161009

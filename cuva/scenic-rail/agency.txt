@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+NPS_CUVA_CVSR,Cuyahoga Valley Scenic Railroad,http://www.cvsr.com,America/Detroit,en,(330) 439-5708

@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+NPS_ROMO_HE,NPS_ROMO,,Hiker Express,"Shuttle starts at Estes Park Fairgrounds Park-n-Ride with stops at Estes Park Visitor Center, aver Meadows Visitor Center and the Moraine Park Visitor Center (transfer to other buses).",3,http://www.nps.gov/romo/planyourvisit/shuttle_bus_route.htm,B57EB5,FFFFFF
+NPS_ROMO_MP,NPS_ROMO,,Moraine Park,Shuttle runs between the Moraine Park Visitor Center and the Fern Lake bus stop with stops at Moraine Park Campground and Cub Lake Trailhead.,3,http://www.nps.gov/romo/planyourvisit/shuttle_bus_route.htm,38A800,FFFFFF
+NPS_ROMO_BL,NPS_ROMO,,Bear Lake,"Shuttle runs between Moraine Park Visitor Center and Bear Lake, stops at Hollowell Park, Bear Lake Park & Ride, Bierdstadt stop, Glacier Gorge, and Bear Lake.",3,http://www.nps.gov/romo/planyourvisit/shuttle_bus_route.htm,E59924,FFFFFF

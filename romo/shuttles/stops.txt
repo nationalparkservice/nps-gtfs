@@ -1,0 +1,16 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,wheelchair_boarding
+NPS_ROMO_020,Estes Park Visitor Center,,40.378788,-105.513549,,1
+NPS_ROMO_030,Beaver Meadows Visitor Center,,40.366681,-105.560825,,1
+NPS_ROMO_040,Moraine Park Visitor Center,,40.358271,-105.584026,,1
+NPS_ROMO_060,Hollowell Park,,40.341773,-105.604978,,1
+NPS_ROMO_070,Park & Ride,,40.329501,-105.601423,,1
+NPS_ROMO_080,Bierstadt Lake Trailhead,,40.320529,-105.623428,,1
+NPS_ROMO_090,Glacier Gorge Trailhead,,40.310403,-105.640362,,1
+NPS_ROMO_100,Bear Lake,,40.312051,-105.6458,,1
+NPS_ROMO_110,Moraine Park Campground,,40.360083,-105.596823,,1
+NPS_ROMO_120,C Loop,,40.357021,-105.611858,,1
+NPS_ROMO_130,Cub Lake Trailhead,,40.356148,-105.615736,,1
+NPS_ROMO_140,Fern Lake Bus Stop,,40.357439,-105.619423,,1
+NPS_ROMO_150,Sprague Lake / Glacier Creek,,40.322775,-105.60511,,1
+NPS_ROMO_160,Glacier Basin Campground,,40.329974,-105.595413,,1
+NPS_ROMO_170,Tuxedo Park,,40.346115,-105.583002,,1
