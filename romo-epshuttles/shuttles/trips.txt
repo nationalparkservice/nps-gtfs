@@ -1,0 +1,94 @@
+route_id,service_id,trip_id,trip_headsign,shape_id
+EPS-Brown,Summer_2016,Su16__Brown_0800,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_0900,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1000,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1100,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1200,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1300,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1400,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1500,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1600,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1700,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1800,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_1900,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_2000,,Brown
+EPS-Brown,Summer_2016,Su16__Brown_2100,,Brown
+EPS-Blue,Summer_2016,Su16__Blue_0900,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_0930,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1000,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1030,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1100,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1130,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1200,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1230,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1300,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1330,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1400,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1430,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1500,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1530,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1600,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1630,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1700,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1730,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1800,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1830,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_1900,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_1930,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_2000,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_2030,Limited,Blue-Ltd
+EPS-Blue,Summer_2016,Su16__Blue_2100,All Stops,Blue-All
+EPS-Blue,Summer_2016,Su16__Blue_2130,Limited,Blue-Ltd
+EPS-Red,Summer_2016,Su16__Red_0900,,Red
+EPS-Red,Summer_2016,Su16__Red_0930,,Red
+EPS-Red,Summer_2016,Su16__Red_1000,,Red
+EPS-Red,Summer_2016,Su16__Red_1030,,Red
+EPS-Red,Summer_2016,Su16__Red_1100,,Red
+EPS-Red,Summer_2016,Su16__Red_1130,,Red
+EPS-Red,Summer_2016,Su16__Red_1200,,Red
+EPS-Red,Summer_2016,Su16__Red_1230,,Red
+EPS-Red,Summer_2016,Su16__Red_1300,,Red
+EPS-Red,Summer_2016,Su16__Red_1330,,Red
+EPS-Red,Summer_2016,Su16__Red_1400,,Red
+EPS-Red,Summer_2016,Su16__Red_1430,,Red
+EPS-Red,Summer_2016,Su16__Red_1500,,Red
+EPS-Red,Summer_2016,Su16__Red_1530,,Red
+EPS-Red,Summer_2016,Su16__Red_1600,,Red
+EPS-Red,Summer_2016,Su16__Red_1630,,Red
+EPS-Red,Summer_2016,Su16__Red_1700,,Red
+EPS-Red,Summer_2016,Su16__Red_1730,,Red
+EPS-Red,Summer_2016,Su16__Red_1800,,Red
+EPS-Red,Summer_2016,Su16__Red_1830,,Red
+EPS-Red,Summer_2016,Su16__Red_1900,,Red
+EPS-Red,Summer_2016,Su16__Red_1930,,Red
+EPS-Red,Summer_2016,Su16__Red_2000,,Red
+EPS-Red,Summer_2016,Su16__Red_2030,,Red
+EPS-Red,Summer_2016,Su16__Red_2100,,Red
+EPS-Red,Summer_2016,Su16__Red_2130,,Red
+EPS-Silver,Summer_2016,Su16__Silver_0900,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_0930,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1000,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1030,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1100,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1130,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1200,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1230,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1300,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1330,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1400,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1430,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1500,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1530,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1600,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1630,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1700,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1730,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1800,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1830,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1900,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_1930,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_2000,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_2030,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_2100,,Silver
+EPS-Silver,Summer_2016,Su16__Silver_2130,,Silver
+EPS-Gold,Summer_2016,Su16__Gold_Loop,,Gold

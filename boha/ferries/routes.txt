@@ -1,6 +1,11 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
-NPS_BOHA__R1,NPS_BOHA__BHIP,,Georges Island Ferry,Ferry service between Long Wharf in Boston and Georges Island,4,5C99A0,FFFFFF
-NPS_BOHA__R2,NPS_BOHA__BHIP,,Spectacle Island Ferry,Ferry service between Long Wharf in Boston and Spectacle Island,4,5C99A0,FFFFFF
-NPS_BOHA__R3,NPS_BOHA__BHIP,,Peddocks Island Ferry,Ferry service between Long Wharf in Boston and Peddocks Island via Georges and Spectacle Islands.,4,5C99A0,FFFFFF
-NPS_BOHA__I2,NPS_BOHA__BHIP,,Interisland Ferry,"Ferry service from Hull to Georges, Peddocks, Lovells, and Bumpkin Islands",4,5C99A0,FFFFFF
-NPS_BOHA__T1,NPS_BOHA__BHIP,,Thompson Island Ferry,Ferry service from EDIC Pier in South Boston to Thompson Island,4,5C99A0,FFFFFF
+NPS_BOHA__BUIS,NPS_BOHA__BHIP,,Bumpkin Island Ferry,"Ferry service to Bumpkin Island, with some trips serving Grape Island",4,5C99A0,FFFFFF
+NPS_BOHA__GEIS,NPS_BOHA__BHIP,,Georges Island Ferry,Ferry service to Georges Island,4,5C99A0,FFFFFF
+NPS_BOHA__EDIC,NPS_BOHA__BHIP,,South Boston Ferry,Ferry service to EDIC Pier in South Boston,4,5C99A0,FFFFFF
+NPS_BOHA__HECO,NPS_BOHA__BHIP,,Hewitt's Cove Ferry,Ferry service to Hewitt's Cove,4,5C99A0,FFFFFF
+NPS_BOHA__LOWH,NPS_BOHA__BHIP,,Long Wharf Ferry,Ferry service to Long Wharf North in Boston,4,5C99A0,FFFFFF
+NPS_BOHA__LOIS,NPS_BOHA__BHIP,,Lovells Island Ferry,Ferry service to Lovells Island,4,5C99A0,FFFFFF
+NPS_BOHA__PEIS,NPS_BOHA__BHIP,,Peddocks Island Ferry,Ferry service to Peddocks Island,4,5C99A0,FFFFFF
+NPS_BOHA__PEPO,NPS_BOHA__BHIP,,Pemberton Point Ferry,Ferry service to Pemberton Point,4,5C99A0,FFFFFF
+NPS_BOHA__SPIS,NPS_BOHA__BHIP,,Spectacle Island Ferry,Ferry service to Spectacle Island,4,5C99A0,FFFFFF
+NPS_BOHA__THOM,NPS_BOHA__BHIP,,Thompson Island Ferry,Ferry service to Thompson Island,4,5C99A0,FFFFFF

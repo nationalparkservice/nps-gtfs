@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+EPS-Red,EPS,Red,Wonderview Ave - Fall River Road,Elkhorn Avenue and Fall River Road - Leaves the Visitor Center and travels to the Fall River Visitor Center.,3,FF0000,FFFFFF
+EPS-Blue,EPS,Blue,Downtown Estes Park - US-34,Big Thompson Avenue - Leaves the Visitor Center and travels east to the Ride-a-Kart.,3,0000FF,FFFFFF
+EPS-Silver,EPS,Silver,Fairgrounds Park-n-Ride,"Fairgrounds Park-n-Ride - Serves the Fairgrounds at Stanley Park, Estes Park Medical Center, Estes Park Event and Conference Centers.",3,666666,FFFFFF
+EPS-Brown,EPS,Brown,Downtown Estes Park - Mary's Lake Lodge - YMCA - Beaver Meadows Entrance Station,Moraine Avenue and Marys Lake Road - Leaves the Visitor Center and travels west to the YMCA Center.,3,663300,FFFFFF
+EPS-Gold,EPS,Gold,Downtown Estes Park - Estes Park Visitor Center - Maxwell Inn,"Serves Elkhorn Ave dining, shopping, lodging, and more.",3,FFCC00,000000
