@@ -1,17 +1,5 @@
-Note that the GTFS offered here does NOT include all of the service to the Boston Harbor Islands!
+Some trips might also be included in the Massachusetts Bay Transportation Authority's GTFS feed.
+These trips are indicated with a different agency_id in the trip_agency_id field of trips.txt.
+This field is not part of the GTFS specification, but was added to the feed for additional clarity.
 
-Some service is provided by the Massachusetts Bay Transportation Authority.
-That data is included in MBTA's GTFS feed. In order to avoid duplication, it is NOT included in this feed.
-
-It is very important to use both MBTA's feed and the NPS feed in order to represent the full service to Boston Harbor Islands.
-The MBTA GTFS feed is available here: http://www.mbta.com/rider_tools/developers/default.asp?id=21895
-
-In MBTA's feed version ["Spring 2016 version 1D, 3/9/16"], any trips serving the following stop_ids is Boston Harbor Islands related:
-Boat-Grape
-Boat-George
-
-In MBTA's feed version ["Spring 2016 version 1D, 3/9/16"], any trips serving the following stop_ids is POSSIBLY Boston Harbor Islands related:
-Boat-Hingham
-Boat-Long
-
-Note that feed structure or stop_ids are subject to change in subsequent versions of MBTA's GTFS.
+If you are using the MBTA feed in addition to this feed, please double-check to avoid any issues.

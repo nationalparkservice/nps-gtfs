@@ -10,3 +10,4 @@ NPS_BOHA__GRIS,Grape Island,Grape Island on S side,42.267,-70.920778,NPS_BOHA
 NPS_BOHA__LOIS,Lovells Island,Lovells Island dock,42.326306,-70.927028,NPS_BOHA
 NPS_BOHA__EDIC,EDIC Pier,"EDIC Pier #10, South Boston",42.3433327,-71.0371389,NPS_BOHA
 NPS_BOHA__THOM,Thompson Island,Thompson Island dock,42.3192216,-71.0101111,NPS_BOHA
+NPS_BOHA__LOAI,Logan Airport,Logan Ferry Terminal,42.359789,-71.02734,NPS_BOHA
