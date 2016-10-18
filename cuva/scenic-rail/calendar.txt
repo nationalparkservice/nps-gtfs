@@ -1,2 +1,4 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
 FA16,0,0,1,1,1,1,1,20160530,20161031
+FA16-1,0,0,1,1,1,1,1,20161101,20161104
+FA16-2,0,0,0,0,0,1,1,20161105,20161130
