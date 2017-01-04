@@ -1,10 +1,10 @@
 stop_id,stop_name,stop_desc,stop_lat,stop_lon,wheelchair_boarding
-NPS_CUVA_010,Rockside Station,Northernmost station with limited bus connections to Cleveland,41.392676,-81.630857,1
-NPS_CUVA_020,Canal Visitor Center Station,Station near the Canal Visitor Center,41.373268,-81.616282,1
-NPS_CUVA_030,Brecksville Station,Station serving Brecksville trails,41.319029,-81.588068,1
-NPS_CUVA_040,Boston Mill Station,Station serving the historic town of Boston,41.262901,-81.561134,1
+NPS_CUVA_010,Rockside,Northernmost station with limited bus connections to Cleveland,41.392676,-81.630857,1
+NPS_CUVA_020,Canal Exploration Center,"Station near the Canal Exploration Center, formerly called the Canal Visitor Center",41.373268,-81.616282,1
+NPS_CUVA_030,Brecksville,Station serving Brecksville trails,41.319029,-81.588068,1
+NPS_CUVA_040,Boston Mill,Station serving the historic town of Boston,41.262901,-81.561134,1
 NPS_CUVA_050,Peninsula Depot (Lock 29),Station serving the small town of Peninsula,41.242247,-81.549109,1
-NPS_CUVA_060,Indigo Lake Station,Station serving Hunts Farm and trails,41.193899,-81.579358,1
-NPS_CUVA_070,Botzum Station,Station serving Metro Parks trails,41.159525,-81.57534,1
+NPS_CUVA_060,Indigo Lake,Station serving Hunts Farm and trails,41.193899,-81.579358,1
+NPS_CUVA_070,Botzum,Station serving Metro Parks trails,41.159525,-81.57534,1
 NPS_CUVA_075,Big Bend,Seasonal station serving the Big Bend Trailhead,41.128441,-81.539151,1
-NPS_CUVA_080,Akron Northside Station,Southernmost station with trail and bus connections to Akron,41.089484,-81.514958,1
+NPS_CUVA_080,Akron Northside,Southernmost station with trail and bus connections to Akron,41.089484,-81.514958,1
