@@ -1,5 +1,3 @@
-Some trips might also be included in the Massachusetts Bay Transportation Authority's GTFS feed.
-These trips are indicated with a different agency_id in the trip_agency_id field of trips.txt.
-This field is not part of the GTFS specification, but was added to the feed for additional clarity.
+Some trips are operated by the Massachusetts Bay Transportation Authority and are included separately in their GTFS feed.
 
-If you are using the MBTA feed in addition to this feed, please double-check to avoid any issues.
+To ensure all trips related to the Boston Harbor Islands are included, you should also use the MBTA feed.
