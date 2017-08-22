@@ -17,7 +17,7 @@ Park Name | System Name | Feed Valid Thru | Feed Link | Dependencies
 #### Maintained and Hosted by Partners
 Park Name | System Name | Maintained By | Feed Link | License
 --------- | ----------- | ------------- | --------- | -----
-[Acadia National Park](http://www.nps.gov/acad "Acadia National Park") | [Acadia Island Explorer](http://www.exploreacadia.com/ "Acadia Island Explorer") | Downeast Transportation and Avail Technologies | Pending | [See Website](http://yarts.com/developers-gtfs-data/ "YARTS GTFS Licensing Information")
+[Acadia National Park](http://www.nps.gov/acad "Acadia National Park") | [Acadia Island Explorer](http://www.exploreacadia.com/ "Acadia Island Explorer") | Downeast Transportation and Avail Technologies | Pending | Pending
 [Yosemite National Park](http://www.nps.gov/yose "Yosemite National Park") | [Yosemite Area Regional Transportation System](http://www.yarts.com "Yosemite Area Regional Transportation System") | YARTS and Trillium Transit | [Link](http://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip "Link to YARTS GTFS") | Public Domain; See Below
 
 
