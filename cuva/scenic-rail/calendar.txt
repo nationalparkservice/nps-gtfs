@@ -1,3 +1,2 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-FA17-1,0,1,1,1,1,1,1,20170904,20171105
-FA17-2,0,0,0,0,0,1,1,20171106,20171126
+SP18-1,0,0,0,0,1,1,1,20180501,20180531

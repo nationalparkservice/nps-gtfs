@@ -1,2 +1,2 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-NPS_CUVA_NPSR,NPS_CUVA_CVSR,,National Park Scenic Railway,,2,http://www.cvsr.com/national-park-scenic,,
+NPS_CUVA_NPSR,NPS_CUVA_CVSR,,National Park Scenic Railway,,2,http://www.cvsr.com/take-the-train/national-park-scenic/,,
