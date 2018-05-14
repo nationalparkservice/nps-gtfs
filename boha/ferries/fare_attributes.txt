@@ -1,2 +1,2 @@
 agency_id,fare_id,price,currency_type,payment_method,transfers
-NPS_BOHA__BHIP,NPS_BOHA,17,USD,1,
+NPS_BOHA__BHIP,NPS_BOHA,19.95,USD,1,
