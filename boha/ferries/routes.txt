@@ -1,6 +1,6 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
-NPS_BOHA__BUIS,NPS_BOHA__BHIP,,Bumpkin Island Ferry,"Ferry service to Bumpkin Island, with some trips serving Grape Island",4,5C99A0,FFFFFF
-NPS_BOHA__GEIS,NPS_BOHA__BHIP,,Georges Island Ferry,"Ferry service to Georges Island, with some trips serving Grape Island",4,5C99A0,FFFFFF
+NPS_BOHA__BUIS,NPS_BOHA__BHIP,,Bumpkin Island Ferry,Ferry service to Bumpkin Island,4,5C99A0,FFFFFF
+NPS_BOHA__GEIS,NPS_BOHA__BHIP,,Georges Island Ferry,Ferry service to Georges Island,4,5C99A0,FFFFFF
 NPS_BOHA__HECO,NPS_BOHA__BHIP,,Hewitt's Cove Ferry,"Ferry service to Hewitt's Cove in Hingham, with some trips serving Grape Island",4,5C99A0,FFFFFF
 NPS_BOHA__LOWH,NPS_BOHA__BHIP,,Long Wharf Ferry,Ferry service to Long Wharf North in Boston,4,5C99A0,FFFFFF
 NPS_BOHA__LOIS,NPS_BOHA__BHIP,,Lovells Island Ferry,Ferry service to Lovells Island,4,5C99A0,FFFFFF
