@@ -1,6 +1,6 @@
 # nps-gtfs
 
-A repository of General Transit Feeds Specification (GTFS) for National Park Service transit systems.
+A repository of General Transit Feeds Specification (GTFS) for National Park Service transit systems. The National Park Service created this repository as part of the [Digital Transit Data Sharing Pilot project](https://rosap.ntl.bts.gov/view/dot/12454) with the [U.S. Department of Transportation Volpe Center](https://github.com/volpeusdot). 
 
 Feeds are organized according to the system of `/[alpha_code]/[system_name]/gtfs.zip`. Direct download links are: `http://nationalparkservice.github.io/nps-gtfs/[alpha_code]/[system_name]/gtfs.zip`. Feeds maintained and hosted by partners have a different organization structure. Please see the tables below for more details.
 
